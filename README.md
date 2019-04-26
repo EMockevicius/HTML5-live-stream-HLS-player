@@ -1,3 +1,6 @@
+Tested on Google chrome and firefox browsers
+try it out at https://theboxnwb.github.io/mediaLab1/src/
+
 # mediaLab1
 
 This lab aims to build your first HTML5 live stream (HLS) player.
