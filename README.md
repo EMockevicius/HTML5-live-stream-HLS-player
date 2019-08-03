@@ -1,5 +1,5 @@
 Tested on Google chrome and firefox browsers
-try it out at https://theboxnwb.github.io/mediaLab1/src/
+try it out at https://eimantasmockevicius.github.io/mediaLab1/src/
 
 # mediaLab1
 
