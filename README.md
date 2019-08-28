@@ -1,5 +1,5 @@
 Tested on Google chrome and firefox browsers
-try it out at https://eimantasmockevicius.github.io/HTML5-live-stream-HLS-playerHTML5-live-stream-HLS-playe/src/
+try it out at https://eimantasmockevicius.github.io/HTML5-live-stream-HLS-playe/src/
 
 # Requirements for repository
   - You have to clone this repository and make two branches (master and develop).
